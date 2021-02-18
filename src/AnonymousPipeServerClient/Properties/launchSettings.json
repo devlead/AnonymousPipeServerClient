@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AnonymousPipeServerClient": {
+      "commandName": "Project",
+      "commandLineArgs": "server --debug",
+      "nativeDebugging": true
+    }
+  }
+}
